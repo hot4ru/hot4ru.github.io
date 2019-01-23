@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to hot4ru's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hot4ru/hot4ru.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
